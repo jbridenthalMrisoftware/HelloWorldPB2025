@@ -1,0 +1,12 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "helloworld.pbl" "";
+@end;
+@begin Objects
+ "m_helloworld_main.srm" "helloworld.pbl";
+ "w_helloworld_main.srw" "helloworld.pbl";
+ "p_helloworld_exe.srj" "helloworld.pbl";
+ "w_helloworld_about.srw" "helloworld.pbl";
+ "newdatawindow.srd" "helloworld.pbl";
+ "helloworld.sra" "helloworld.pbl";
+@end;
